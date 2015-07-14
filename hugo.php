@@ -7,7 +7,7 @@
 
 /**
  * @author Hugo
- * @version 0.01
+ * @version 1.0
  */
 
 function saludar(){
