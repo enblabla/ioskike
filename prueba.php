@@ -6,7 +6,7 @@ function saludar(){
 
 
 function saludar2(){
-    print 'hola mundo soy kike';
+    print 'hola mundo soy kike 2';
 }
 
 
